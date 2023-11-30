@@ -1,0 +1,29 @@
+[33mcommit 4e6bcae154d6b975ed69a12ddfdec51c739e352c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Domencio <Xenagos98@gmail.com>
+Date:   Thu Nov 30 10:49:00 2023 +0100
+
+    changed test.txt content
+
+[33mcommit 80a90d7051ec094c43cdc52eb2e3d5f60a1a4d01[m
+Author: Domencio <Xenagos98@gmail.com>
+Date:   Thu Nov 30 10:45:29 2023 +0100
+
+    updated test.txt
+
+[33mcommit 8223b89bcff46ce58e16b2bb37908a8e1a9629d6[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Domencio <Xenagos98@gmail.com>
+Date:   Wed Nov 29 17:22:15 2023 +0100
+
+    added new feature
+
+[33mcommit 1c4e5338be2d3e874b3c3a5a895ebc6e909d2119[m
+Author: Domencio <Xenagos98@gmail.com>
+Date:   Wed Nov 29 16:51:37 2023 +0100
+
+    change test.txt and addede second-commit.txt
+
+[33mcommit d0f091bebb963c2d4d88d36583abfdaece79c0b3[m
+Author: Domencio <Xenagos98@gmail.com>
+Date:   Wed Nov 29 16:44:56 2023 +0100
+
+    added text.txt file
